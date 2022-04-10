@@ -85,7 +85,7 @@ header img {
   width: 1.3rem;
   height: 0.9rem;
   margin-left: 1rem;
-  background-image: url(../assets/icons/down-arrow.svg);
+  background-image: url("./assets/icons/down-arrow.svg");
   background-repeat: no-repeat;
 }
 /* main */
@@ -127,7 +127,7 @@ main {
   height: 20rem;
   margin: 0 auto;
   margin-bottom: 5rem;
-  background-image: url("../assets/img/Bitcoin.svg");
+  background-image: url("./assets/img/Bitcoin.svg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -190,7 +190,7 @@ main {
   width: 1.5rem;
   height: 1.5rem;
   margin-left: 1rem;
-  background-image: url("../assets/icons/trending-down.svg");
+  background-image: url("./assets/icons/trending-down.svg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -200,7 +200,7 @@ main {
   width: 1.5rem;
   height: 1.5rem;
   margin-left: 1rem;
-  background-image: url("../assets/icons/trending-up.svg");
+  background-image: url("./assets/icons/trending-up.svg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
